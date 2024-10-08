@@ -53,6 +53,7 @@
                 <td>{$row['DNI']}</td>
             </tr>";
     }
+    echo "TABLA DINAMICA";
 ?>
 </body>
 </html>
